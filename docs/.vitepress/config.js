@@ -5,6 +5,19 @@ export default defineConfig({
   description: '分享跨境电商技术、Google SEO、AdSense 集成和程序员技术经验',
   base: '/',
 
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    // ==================== Google AdSense ====================
+    [
+      'script',
+      {
+        async: true,
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX',
+        crossorigin: 'anonymous'
+      }
+    ],
+  ],
+
   // 主题配置
   themeConfig: {
     // 导航栏

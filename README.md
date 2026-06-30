@@ -22,9 +22,7 @@ node -v
 npm -v
 ```
 
-## 注意
 
-npm run build后 将dist内容复制到blog文件夹下
 
 ## 快速开始
 
@@ -78,13 +76,14 @@ blog/
 
 ## 功能特性
 
-- ✅ 基于 VitePress 1.x
+- ✅ 基于 VitePress 2.x
 - ✅ 支持 Markdown 写作
 - ✅ 本地搜索功能
 - ✅ 深色模式支持
 - ✅ 响应式设计
 - ✅ 代码高亮
 - ✅ 文章分类
+- ✅ Google AdSense 集成
 
 ## 自定义配置
 
@@ -96,6 +95,42 @@ blog/
 - 主题样式
 - 社交链接
 
+## Google AdSense 集成
+
+项目已集成 Google AdSense 自动广告，配置位于 `docs/.vitepress/config.js` 的 `head` 部分。
+
+### 配置说明
+
+1. 在 `config.js` 中找到 AdSense 配置：
+
+```javascript
+head: [
+  ['link', { rel: 'icon', href: '/favicon.ico' }],
+  // ==================== Google AdSense ====================
+  [
+    'script',
+    {
+      async: true,
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX',
+      crossorigin: 'anonymous'
+    }
+  ],
+],
+```
+
+2. 将 `ca-pub-XXXXXXXXXXXXXXXX` 替换为你的 AdSense 发布商 ID
+
+### 获取发布商 ID
+
+1. 登录 [Google AdSense](https://adsense.google.com/)
+2. 进入"账户" -> "账户信息"
+3. 找到"发布商 ID"（格式：ca-pub-XXXXXXXXXXXXXXXX）
+
+### 验证集成
+
+- 开发环境：`npm run dev` 后查看页面源代码，确认 `<head>` 中包含 AdSense 脚本
+- 生产环境：构建后检查 `dist` 目录中的 HTML 文件
+
 ## 写作指南
 
 ### 创建新文章
@@ -106,7 +141,7 @@ blog/
 ```markdown
 ---
 title: 文章标题
-date: 2025-11-30
+date: 2026-05-30
 tags:
   - 标签1
   - 标签2
