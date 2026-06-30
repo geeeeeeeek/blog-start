@@ -3,6 +3,25 @@
 基于 VitePress 构建的个人博客系统。
 
 
+## 环境要求
+
+- Node.js >= 18.0.0
+- npm >= 9.0.0
+
+### Node.js 下载
+
+推荐使用 Node.js v22.23.1 LTS 版本：
+
+- Windows x64: [node-v22.23.1-x64.msi](https://nodejs.org/dist/v22.23.1/node-v22.23.1-x64.msi)
+- 其他版本请访问 [Node.js 官网](https://nodejs.org/)
+
+验证安装：
+
+```bash
+node -v
+npm -v
+```
+
 ## 注意
 
 npm run build后 将dist内容复制到blog文件夹下
