@@ -1,0 +1,325 @@
+import{_ as n,c as a,o as l,aj as e}from"./chunks/framework.e3UxQEvm.js";const m=JSON.parse('{"title":"Google AdSense 税务信息表填写完整指南","description":"","frontmatter":{"title":"Google AdSense 税务信息表填写完整指南","date":"2025-12-05T00:00:00.000Z","tags":["AdSense","税务","网站变现","Google"]},"headers":[],"relativePath":"posts/adsense-tax-information-guide.md","filePath":"posts/adsense-tax-information-guide.md","lastUpdated":1782801966000}'),p={name:"posts/adsense-tax-information-guide.md"};function r(c,s,o,i,t,b){return l(),a("div",null,[...s[0]||(s[0]=[e(`<h1 id="google-adsense-税务信息表填写完整指南" tabindex="-1">Google AdSense 税务信息表填写完整指南 <a class="header-anchor" href="#google-adsense-税务信息表填写完整指南" aria-label="Permalink to “Google AdSense 税务信息表填写完整指南”">​</a></h1><p>Google AdSense 要求所有发布商提交税务信息。本文将详细讲解如何正确填写税务信息表，避免常见错误，确保顺利收款。</p><h2 id="一、为什么需要填写税务信息" tabindex="-1">一、为什么需要填写税务信息 <a class="header-anchor" href="#一、为什么需要填写税务信息" aria-label="Permalink to “一、为什么需要填写税务信息”">​</a></h2><h3 id="法律要求" tabindex="-1">法律要求 <a class="header-anchor" href="#法律要求" aria-label="Permalink to “法律要求”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">美国税法要求：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 所有向美国公司（Google）提供服务的个人/企业</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 必须提交税务信息</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 用于确定是否需要预扣税款</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">不提交的后果：</span></span>
+<span class="line"><span style="color:#BABED8;">❌ 可能被预扣高达 30% 的收入</span></span>
+<span class="line"><span style="color:#BABED8;">❌ 无法正常收款</span></span>
+<span class="line"><span style="color:#BABED8;">❌ 账户可能被暂停</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><h3 id="税务表格类型" tabindex="-1">税务表格类型 <a class="header-anchor" href="#税务表格类型" aria-label="Permalink to “税务表格类型”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">个人发布商：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> W-9（美国公民/居民）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> W-8BEN（外国个人）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">企业发布商：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> W-9（美国企业）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> W-8BEN-E（外国企业）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">本文重点讲解：W-8BEN（最常见）</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><h2 id="二、准备工作" tabindex="-1">二、准备工作 <a class="header-anchor" href="#二、准备工作" aria-label="Permalink to “二、准备工作”">​</a></h2><h3 id="需要的信息和文件" tabindex="-1">需要的信息和文件 <a class="header-anchor" href="#需要的信息和文件" aria-label="Permalink to “需要的信息和文件”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">✅ 个人信息：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 合法全名（与身份证件一致）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 出生日期</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 居住地址</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 邮寄地址（如不同）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">✅ 税务信息：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 税务居住国家</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 纳税人识别号（TIN）</span></span>
+<span class="line"><span style="color:#89DDFF;">  *</span><span style="color:#BABED8;"> 中国：无需提供</span></span>
+<span class="line"><span style="color:#89DDFF;">  *</span><span style="color:#BABED8;"> 其他国家：根据当地要求</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">✅ 收款信息：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 银行账户信息</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> SWIFT 代码</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 银行地址</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">✅ 身份证明文件：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 护照（推荐）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 身份证</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 驾驶证</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br></div></div><h3 id="中国大陆发布商特别说明" tabindex="-1">中国大陆发布商特别说明 <a class="header-anchor" href="#中国大陆发布商特别说明" aria-label="Permalink to “中国大陆发布商特别说明”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">好消息：</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 中美有税收协定</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 无需提供纳税人识别号</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 预扣税率：0%（符合条件）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">注意事项：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 必须声明税收协定优惠</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 正确选择服务类型</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 地址必须真实准确</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><h2 id="三、w-8ben-表格填写步骤-中国发布商" tabindex="-1">三、W-8BEN 表格填写步骤（中国发布商） <a class="header-anchor" href="#三、w-8ben-表格填写步骤-中国发布商" aria-label="Permalink to “三、W-8BEN 表格填写步骤（中国发布商）”">​</a></h2><h3 id="第-1-部分-识别受益所有人" tabindex="-1">第 1 部分：识别受益所有人 <a class="header-anchor" href="#第-1-部分-识别受益所有人" aria-label="Permalink to “第 1 部分：识别受益所有人”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">第 1 行：个人姓名</span></span>
+<span class="line"><span style="color:#BABED8;">填写：Zhang San（拼音）或 Zhang San（英文）</span></span>
+<span class="line"><span style="color:#BABED8;">⚠️ 必须与身份证件完全一致</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 2 行：公民身份国家/地区</span></span>
+<span class="line"><span style="color:#BABED8;">选择：China</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 3 行：永久居住地址</span></span>
+<span class="line"><span style="color:#BABED8;">填写示例：</span></span>
+<span class="line"><span style="color:#BABED8;">Street: No. 123, Zhongshan Road</span></span>
+<span class="line"><span style="color:#BABED8;">City: Beijing</span></span>
+<span class="line"><span style="color:#BABED8;">Province: Beijing</span></span>
+<span class="line"><span style="color:#BABED8;">Postal Code: 100000</span></span>
+<span class="line"><span style="color:#BABED8;">Country: China</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">⚠️ 注意：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 使用英文填写</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 不要使用 P.O. Box（邮政信箱）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 必须是真实居住地址</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 4 行：邮寄地址（如与第3行不同）</span></span>
+<span class="line"><span style="color:#BABED8;">通常留空</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 5 行：美国纳税人识别号</span></span>
+<span class="line"><span style="color:#BABED8;">留空（中国个人无需提供）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 6 行：外国纳税人识别号</span></span>
+<span class="line"><span style="color:#BABED8;">留空（中国个人无需提供）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 7 行：出生日期</span></span>
+<span class="line"><span style="color:#BABED8;">格式：MM-DD-YYYY</span></span>
+<span class="line"><span style="color:#BABED8;">示例：01-15-1990</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br></div></div><h3 id="第-2-部分-要求享受协定优惠" tabindex="-1">第 2 部分：要求享受协定优惠 <a class="header-anchor" href="#第-2-部分-要求享受协定优惠" aria-label="Permalink to “第 2 部分：要求享受协定优惠”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">这是最重要的部分！</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 9 行：税收协定国家</span></span>
+<span class="line"><span style="color:#BABED8;">选择：China</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">第 10 行：特殊费率和条件</span></span>
+<span class="line"><span style="color:#BABED8;">填写：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 服务类型：Technical Services 或 Other Independent Personal Services</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 税率：0%</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 依据条款：Article 7 或 Article 14</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">完整填写示例：</span></span>
+<span class="line"><span style="color:#BABED8;">&quot;The beneficial owner is a resident of China within the meaning</span></span>
+<span class="line"><span style="color:#BABED8;">of the income tax treaty between China and the United States.</span></span>
+<span class="line"><span style="color:#BABED8;">The income is business profits or independent personal services</span></span>
+<span class="line"><span style="color:#BABED8;">exempt from tax under Article 7 (or Article 14) of the treaty.&quot;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">简化版（AdSense 界面通常会自动生成）：</span></span>
+<span class="line"><span style="color:#BABED8;">服务收入依据中美税收协定第7条，税率0%</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br></div></div><h3 id="第-3-部分-认证" tabindex="-1">第 3 部分：认证 <a class="header-anchor" href="#第-3-部分-认证" aria-label="Permalink to “第 3 部分：认证”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">签名：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 在线提交：输入全名即可</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 纸质提交：需手写签名</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">日期：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 格式：MM-DD-YYYY</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 填写当前日期</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">身份：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> Individual（个人）</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><h2 id="四、adsense-界面操作步骤" tabindex="-1">四、AdSense 界面操作步骤 <a class="header-anchor" href="#四、adsense-界面操作步骤" aria-label="Permalink to “四、AdSense 界面操作步骤”">​</a></h2><h3 id="访问税务信息页面" tabindex="-1">访问税务信息页面 <a class="header-anchor" href="#访问税务信息页面" aria-label="Permalink to “访问税务信息页面”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">路径：</span></span>
+<span class="line"><span style="color:#89DDFF;">1.</span><span style="color:#BABED8;"> 登录 AdSense 账号</span></span>
+<span class="line"><span style="color:#89DDFF;">2.</span><span style="color:#BABED8;"> 点击左侧菜单&quot;付款&quot;</span></span>
+<span class="line"><span style="color:#89DDFF;">3.</span><span style="color:#BABED8;"> 选择&quot;付款信息&quot;</span></span>
+<span class="line"><span style="color:#89DDFF;">4.</span><span style="color:#BABED8;"> 找到&quot;管理税务信息&quot;</span></span>
+<span class="line"><span style="color:#89DDFF;">5.</span><span style="color:#BABED8;"> 点击&quot;添加税务信息&quot;</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br></div></div><h3 id="逐步填写" tabindex="-1">逐步填写 <a class="header-anchor" href="#逐步填写" aria-label="Permalink to “逐步填写”">​</a></h3><h4 id="step-1-选择税务表单类型" tabindex="-1">Step 1: 选择税务表单类型 <a class="header-anchor" href="#step-1-选择税务表单类型" aria-label="Permalink to “Step 1: 选择税务表单类型”">​</a></h4><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">问题：Are you a U.S. person for tax purposes?</span></span>
+<span class="line"><span style="color:#BABED8;">回答：No（对于中国发布商）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">系统会提示使用 W-8BEN 表格</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div><h4 id="step-2-个人信息" tabindex="-1">Step 2: 个人信息 <a class="header-anchor" href="#step-2-个人信息" aria-label="Permalink to “Step 2: 个人信息”">​</a></h4><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">Legal Name（法定姓名）：</span></span>
+<span class="line"><span style="color:#BABED8;">Zhang San</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Country of citizenship（国籍）：</span></span>
+<span class="line"><span style="color:#BABED8;">China</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Type of beneficial owner（受益所有人类型）：</span></span>
+<span class="line"><span style="color:#BABED8;">Individual（个人）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Permanent residence address（永久居住地址）：</span></span>
+<span class="line"><span style="color:#BABED8;">Street address: No. 123, Zhongshan Road</span></span>
+<span class="line"><span style="color:#BABED8;">City: Beijing</span></span>
+<span class="line"><span style="color:#BABED8;">State/Province: Beijing</span></span>
+<span class="line"><span style="color:#BABED8;">Postal code: 100000</span></span>
+<span class="line"><span style="color:#BABED8;">Country: China</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">⚠️ 重要：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 地址必须用英文</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 不能使用虚假地址</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> Google 可能验证地址真实性</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br></div></div><h4 id="step-3-税务信息" tabindex="-1">Step 3: 税务信息 <a class="header-anchor" href="#step-3-税务信息" aria-label="Permalink to “Step 3: 税务信息”">​</a></h4><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">Do you have a U.S. Taxpayer Identification Number?</span></span>
+<span class="line"><span style="color:#BABED8;">选择：No</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Do you have a Foreign Tax Identification Number?</span></span>
+<span class="line"><span style="color:#BABED8;">选择：No（中国个人发布商）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">理由：根据中美税收协定，AdSense 收入无需提供TIN</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><h4 id="step-4-税收协定优惠" tabindex="-1">Step 4: 税收协定优惠 <a class="header-anchor" href="#step-4-税收协定优惠" aria-label="Permalink to “Step 4: 税收协定优惠”">​</a></h4><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">Are you claiming tax treaty benefits?</span></span>
+<span class="line"><span style="color:#BABED8;">选择：Yes</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Treaty country（协定国家）：</span></span>
+<span class="line"><span style="color:#BABED8;">China</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Special rates and conditions（特殊税率和条件）：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> Article number: 7（商业利润）或 14（独立个人劳务）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> Withholding rate: 0%</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> Type of income: Business profits / Independent personal services</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">说明示例（英文）：</span></span>
+<span class="line"><span style="color:#BABED8;">&quot;I am a resident of China claiming benefits under Article 7</span></span>
+<span class="line"><span style="color:#BABED8;">of the U.S.-China tax treaty for business profits derived</span></span>
+<span class="line"><span style="color:#BABED8;">from AdSense services. The applicable withholding tax rate is 0%.&quot;</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br></div></div><h4 id="step-5-认证和提交" tabindex="-1">Step 5: 认证和提交 <a class="header-anchor" href="#step-5-认证和提交" aria-label="Permalink to “Step 5: 认证和提交”">​</a></h4><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">Certification（认证）：</span></span>
+<span class="line"><span style="color:#BABED8;">☑ 我确认以上信息真实准确</span></span>
+<span class="line"><span style="color:#BABED8;">☑ 我是该收入的实际受益人</span></span>
+<span class="line"><span style="color:#BABED8;">☑ 我同意税务信息条款</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Signature（签名）：</span></span>
+<span class="line"><span style="color:#BABED8;">输入你的全名：Zhang San</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">Date（日期）：</span></span>
+<span class="line"><span style="color:#BABED8;">自动填充当前日期</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">提交后：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 系统会显示&quot;税务信息已提交&quot;</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 通常 24-48 小时审核</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 审核通过后会收到邮件通知</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br></div></div><h2 id="五、不同国家-地区填写指南" tabindex="-1">五、不同国家/地区填写指南 <a class="header-anchor" href="#五、不同国家-地区填写指南" aria-label="Permalink to “五、不同国家/地区填写指南”">​</a></h2><h3 id="美国发布商-w-9" tabindex="-1">美国发布商（W-9） <a class="header-anchor" href="#美国发布商-w-9" aria-label="Permalink to “美国发布商（W-9）”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">表格：W-9</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">必填信息：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> Social Security Number (SSN) 或</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> Employer Identification Number (EIN)</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 美国地址</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">预扣税：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 0%（正确填写情况下）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">注意：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 必须提供有效的 TIN</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 地址必须是美国境内</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br></div></div><h3 id="欧盟发布商-w-8ben" tabindex="-1">欧盟发布商（W-8BEN） <a class="header-anchor" href="#欧盟发布商-w-8ben" aria-label="Permalink to “欧盟发布商（W-8BEN）”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">与中国发布商类似，但：</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">必须提供：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 欧盟国家的 TIN（大多数情况）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> VAT 号码（如适用）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">税收协定：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 检查是否有美国-欧盟税收协定</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 不同国家税率不同（通常 0-15%）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">示例（德国）：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> TIN: 德国税号（Steueridentifikationsnummer）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 税收协定：Germany</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 通常预扣税率：0%</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br></div></div><h3 id="其他亚洲国家" tabindex="-1">其他亚洲国家 <a class="header-anchor" href="#其他亚洲国家" aria-label="Permalink to “其他亚洲国家”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">日本：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 需要提供 My Number（マイナンバー）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 税率：0%（有协定）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">印度：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 需要提供 PAN（Permanent Account Number）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 税率：通常 15%</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">新加坡：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 可能不需要 TIN</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 税率：0%（有协定）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">⚠️ 建议：查询本国与美国的税收协定</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br></div></div><h2 id="六、常见问题和解决方案" tabindex="-1">六、常见问题和解决方案 <a class="header-anchor" href="#六、常见问题和解决方案" aria-label="Permalink to “六、常见问题和解决方案”">​</a></h2><h3 id="问题-1-没有纳税人识别号怎么办" tabindex="-1">问题 1：没有纳税人识别号怎么办？ <a class="header-anchor" href="#问题-1-没有纳税人识别号怎么办" aria-label="Permalink to “问题 1：没有纳税人识别号怎么办？”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">解决方案：</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">中国发布商：</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 可以不提供</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 在表单中选择&quot;不适用&quot;或留空</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 依然可以享受 0% 预扣税率</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">其他国家：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 检查是否真的需要</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 咨询当地税务机关</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 查看 Google 帮助文档</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><h3 id="问题-2-地址验证失败" tabindex="-1">问题 2：地址验证失败 <a class="header-anchor" href="#问题-2-地址验证失败" aria-label="Permalink to “问题 2：地址验证失败”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">可能原因：</span></span>
+<span class="line"><span style="color:#BABED8;">❌ 地址格式不正确</span></span>
+<span class="line"><span style="color:#BABED8;">❌ 使用了特殊字符</span></span>
+<span class="line"><span style="color:#BABED8;">❌ 地址与其他 Google 服务不匹配</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">解决方法：</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 使用标准英文地址格式</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 确保与 Google Payments 地址一致</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 避免使用缩写</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 不要使用 P.O. Box</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><h3 id="问题-3-税务信息被拒绝" tabindex="-1">问题 3：税务信息被拒绝 <a class="header-anchor" href="#问题-3-税务信息被拒绝" aria-label="Permalink to “问题 3：税务信息被拒绝”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">常见原因：</span></span>
+<span class="line"><span style="color:#89DDFF;">1.</span><span style="color:#BABED8;"> 信息不完整</span></span>
+<span class="line"><span style="color:#89DDFF;">2.</span><span style="color:#BABED8;"> 姓名与身份证件不符</span></span>
+<span class="line"><span style="color:#89DDFF;">3.</span><span style="color:#BABED8;"> 选错了表格类型</span></span>
+<span class="line"><span style="color:#89DDFF;">4.</span><span style="color:#BABED8;"> 税收协定信息错误</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">解决步骤：</span></span>
+<span class="line"><span style="color:#89DDFF;">1.</span><span style="color:#BABED8;"> 检查邮件中的拒绝原因</span></span>
+<span class="line"><span style="color:#89DDFF;">2.</span><span style="color:#BABED8;"> 核对所有信息</span></span>
+<span class="line"><span style="color:#89DDFF;">3.</span><span style="color:#BABED8;"> 重新提交</span></span>
+<span class="line"><span style="color:#89DDFF;">4.</span><span style="color:#BABED8;"> 如仍失败，联系 AdSense 支持</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><h3 id="问题-4-如何更新税务信息" tabindex="-1">问题 4：如何更新税务信息 <a class="header-anchor" href="#问题-4-如何更新税务信息" aria-label="Permalink to “问题 4：如何更新税务信息”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">更新流程：</span></span>
+<span class="line"><span style="color:#89DDFF;">1.</span><span style="color:#BABED8;"> AdSense → 付款 → 付款信息</span></span>
+<span class="line"><span style="color:#89DDFF;">2.</span><span style="color:#BABED8;"> 管理税务信息 → 查看或编辑</span></span>
+<span class="line"><span style="color:#89DDFF;">3.</span><span style="color:#BABED8;"> 点击&quot;更新税务信息&quot;</span></span>
+<span class="line"><span style="color:#89DDFF;">4.</span><span style="color:#BABED8;"> 提交新的表格</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">需要更新的情况：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 地址变更</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 姓名变更（需提供证明）</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 税务状态变更</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 每 3 年例行更新（Google 会提醒）</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><h3 id="问题-5-多个-adsense-账户怎么办" tabindex="-1">问题 5：多个 AdSense 账户怎么办 <a class="header-anchor" href="#问题-5-多个-adsense-账户怎么办" aria-label="Permalink to “问题 5：多个 AdSense 账户怎么办”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">规则：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 每个账户都需要单独提交税务信息</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 信息必须与账户持有人一致</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 不能使用他人的税务信息</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">建议：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 使用同一套真实信息</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 确保信息一致性</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 避免账户关联问题</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><h2 id="七、税务信息安全" tabindex="-1">七、税务信息安全 <a class="header-anchor" href="#七、税务信息安全" aria-label="Permalink to “七、税务信息安全”">​</a></h2><h3 id="保护敏感信息" tabindex="-1">保护敏感信息 <a class="header-anchor" href="#保护敏感信息" aria-label="Permalink to “保护敏感信息”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">✅ 最佳实践：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 只在 HTTPS 连接下提交</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 不要通过邮件发送税务信息</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 定期更新密码</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 启用两步验证</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">❌ 避免：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 在公共 Wi-Fi 下提交</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 保存截图到云端</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 与他人分享税务文件</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 使用第三方代填服务（除非可信）</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><h3 id="数据存储" tabindex="-1">数据存储 <a class="header-anchor" href="#数据存储" aria-label="Permalink to “数据存储”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">Google 如何使用你的税务信息：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 仅用于税务合规</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 符合美国 IRS 要求</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 按照隐私政策存储</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 可能提交给税务机关</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">你的权利：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 查看已提交的信息</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 更新或更正信息</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 了解信息如何使用</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><h2 id="八、税务申报建议" tabindex="-1">八、税务申报建议 <a class="header-anchor" href="#八、税务申报建议" aria-label="Permalink to “八、税务申报建议”">​</a></h2><h3 id="中国大陆发布商" tabindex="-1">中国大陆发布商 <a class="header-anchor" href="#中国大陆发布商" aria-label="Permalink to “中国大陆发布商”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">国内税务处理：</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">AdSense 收入性质：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 劳务报酬所得</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 需要个人所得税申报</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">报税流程：</span></span>
+<span class="line"><span style="color:#89DDFF;">1.</span><span style="color:#BABED8;"> 记录每月 AdSense 收入</span></span>
+<span class="line"><span style="color:#89DDFF;">2.</span><span style="color:#BABED8;"> 年度个税汇算清缴时申报</span></span>
+<span class="line"><span style="color:#89DDFF;">3.</span><span style="color:#BABED8;"> 适用税率：20-40%（根据金额）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">建议：</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 保留所有收入记录</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 咨询专业税务顾问</span></span>
+<span class="line"><span style="color:#BABED8;">✅ 及时申报纳税</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br></div></div><h3 id="如何合理合法减税" tabindex="-1">如何合理合法减税 <a class="header-anchor" href="#如何合理合法减税" aria-label="Permalink to “如何合理合法减税”">​</a></h3><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">可能的方式：</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#89DDFF;">1.</span><span style="color:#BABED8;"> 注册个体工商户</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 核定征收（部分地区）</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 税负可能更低</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#89DDFF;">2.</span><span style="color:#BABED8;"> 注册个人独资企业</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 专业化运营</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 可抵扣成本</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#89DDFF;">3.</span><span style="color:#BABED8;"> 合理列支成本</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 服务器费用</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 域名费用</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 推广费用</span></span>
+<span class="line"><span style="color:#89DDFF;">   -</span><span style="color:#BABED8;"> 办公费用</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">⚠️ 重要：</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 必须合法合规</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 咨询专业税务师</span></span>
+<span class="line"><span style="color:#89DDFF;">-</span><span style="color:#BABED8;"> 保留所有凭证</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br></div></div><h2 id="九、检查清单" tabindex="-1">九、检查清单 <a class="header-anchor" href="#九、检查清单" aria-label="Permalink to “九、检查清单”">​</a></h2><div class="language-markdown line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki material-theme-palenight" style="background-color:#292D3E;color:#babed8;" tabindex="0" dir="ltr"><code><span class="line"><span style="color:#BABED8;">提交前请确认：</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">个人信息</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 姓名与身份证件一致</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 地址真实准确</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 国家/地区正确</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">税务信息</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 选择了正确的表格类型</span></span>
+<span class="line"><span style="color:#BABED8;">☐ TIN 信息正确（如需要）</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 税收协定国家正确</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">协定优惠</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 正确选择了税收协定</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 条款编号正确</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 税率正确（通常 0%）</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">认证</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 签名完整</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 日期正确</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 确认所有声明</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BABED8;">提交后</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 收到确认邮件</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 等待 24-48 小时</span></span>
+<span class="line"><span style="color:#BABED8;">☐ 检查审核状态</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br></div></div><h2 id="十、总结" tabindex="-1">十、总结 <a class="header-anchor" href="#十、总结" aria-label="Permalink to “十、总结”">​</a></h2><p>填写 AdSense 税务信息要点：</p><ol><li><strong>准备充分</strong>：收集所有必要信息和文件</li><li><strong>仔细填写</strong>：每个字段都要认真核对</li><li><strong>了解协定</strong>：利用税收协定减少预扣税</li><li><strong>真实准确</strong>：所有信息必须真实</li><li><strong>及时更新</strong>：信息变更后及时更新</li><li><strong>合规纳税</strong>：在本国也要依法纳税</li></ol><p><strong>中国发布商特别提示：</strong></p><ul><li>正确填写可享受 0% 预扣税率</li><li>无需提供纳税人识别号</li><li>记得国内也要申报纳税</li></ul><p>如遇到问题，可以：</p><ul><li>查看 AdSense 帮助中心</li><li>联系 AdSense 支持团队</li><li>咨询专业税务顾问</li></ul><hr><p><em>发布于 2025-12-05 | AdSense 运营系列</em></p>`,72)])])}const B=n(p,[["render",r]]);export{m as __pageData,B as default};
