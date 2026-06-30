@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.15",
+    "vue": "^3.5.25"
+  }
+}
