@@ -5,4 +5,5 @@ cache
 .temp
 *.local
 docs/.vitepress/cache
+docs/.vitepress/dist
 .vitepress/cache

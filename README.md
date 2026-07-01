@@ -195,7 +195,7 @@ npm run build
 创建站点配置：
 
 ```bash
-sudo nano /etc/nginx/sites-available/blog
+sudo nano /etc/nginx/conf.d/my.conf
 ```
 
 添加以下配置：
@@ -220,18 +220,7 @@ server {
 
 #### 4. 启用站点
 
-```bash
-# 创建软链接
-sudo ln -s /etc/nginx/sites-available/blog /etc/nginx/sites-enabled/
-
-# 上传构建文件到服务器
-sudo mkdir -p /var/www/blog
-sudo cp -r docs/.vitepress/dist/* /var/www/blog/
-
-# 设置权限
-sudo chown -R www-data:www-data /var/www/blog
-sudo chmod -R 755 /var/www/blog
-
+```
 # 测试配置
 sudo nginx -t
 
@@ -248,17 +237,7 @@ sudo apt install certbot python3-certbot-nginx -y
 sudo certbot --nginx -d your-domain.com
 ```
 
-#### 6. 更新部署
-
-每次更新博客后：
-
-```bash
-# 本地构建
-npm run build
-
-# 上传到服务器（示例使用 scp）
-scp -r docs/.vitepress/dist/* user@your-server:/var/www/blog/
-```
+ 
 
 ### GitHub Pages
 
