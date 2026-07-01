@@ -163,18 +163,113 @@ VitePress 支持丰富的 Markdown 扩展：
 
 详见 [VitePress 文档](https://vitepress.dev/)
 
+## 服务器推荐
+
+推荐使用高性能 VPS 服务器部署博客：
+
+- [搬瓦工 VPS](https://bwh81.net/aff.php?aff=79811) - 高性价比、稳定可靠的云服务器
+
 ## 部署
+
+### Nginx 部署（Ubuntu 20.04）
+
+#### 1. 安装 Nginx
+
+```bash
+sudo apt update
+sudo apt install nginx -y
+```
+
+#### 2. 构建项目
+
+在本地执行：
+
+```bash
+npm run build
+```
+
+将 `docs/.vitepress/dist` 目录的内容上传到服务器。
+
+#### 3. 配置 Nginx
+
+创建站点配置：
+
+```bash
+sudo nano /etc/nginx/sites-available/blog
+```
+
+添加以下配置：
+
+```nginx
+server {
+    listen 80;
+    server_name your-domain.com;  # 替换为你的域名
+
+    root /var/www/blog;  # 网站文件目录
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ $uri.html;
+    }
+
+    # 启用 Gzip 压缩
+    gzip on;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+}
+```
+
+#### 4. 启用站点
+
+```bash
+# 创建软链接
+sudo ln -s /etc/nginx/sites-available/blog /etc/nginx/sites-enabled/
+
+# 上传构建文件到服务器
+sudo mkdir -p /var/www/blog
+sudo cp -r docs/.vitepress/dist/* /var/www/blog/
+
+# 设置权限
+sudo chown -R www-data:www-data /var/www/blog
+sudo chmod -R 755 /var/www/blog
+
+# 测试配置
+sudo nginx -t
+
+# 重启 Nginx
+sudo systemctl restart nginx
+```
+
+#### 5. 配置 SSL（可选）
+
+使用 Certbot 配置 HTTPS：
+
+```bash
+sudo apt install certbot python3-certbot-nginx -y
+sudo certbot --nginx -d your-domain.com
+```
+
+#### 6. 更新部署
+
+每次更新博客后：
+
+```bash
+# 本地构建
+npm run build
+
+# 上传到服务器（示例使用 scp）
+scp -r docs/.vitepress/dist/* user@your-server:/var/www/blog/
+```
 
 ### GitHub Pages
 
 1. 在 `config.js` 中设置 `base` 为你的仓库名
-2. 构建项目：`npm run docs:build`
+2. 构建项目：`npm run build`
 3. 将 `docs/.vitepress/dist` 目录部署到 GitHub Pages
 
 ### Netlify / Vercel
 
 1. 连接你的 Git 仓库
-2. 设置构建命令：`npm run docs:build`
+2. 设置构建命令：`npm run build`
 3. 设置输出目录：`docs/.vitepress/dist`
 
 ## 技术栈
