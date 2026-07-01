@@ -163,11 +163,20 @@ VitePress 支持丰富的 Markdown 扩展：
 
 详见 [VitePress 文档](https://vitepress.dev/)
 
-## 服务器推荐
+## 资源推荐
+
+### 服务器推荐
 
 推荐使用高性能 VPS 服务器部署博客：
 
 - [搬瓦工 VPS](https://bwh81.net/aff.php?aff=79811) - 高性价比、稳定可靠的云服务器
+
+### 域名购买
+
+推荐使用 Namesilo 购买域名，价格实惠、管理方便：
+
+- [Namesilo 域名注册](https://www.namesilo.com/?rid=0ac5797ay)（Affiliate）
+- 优惠码：**Tim2026**
 
 ## 部署
 
